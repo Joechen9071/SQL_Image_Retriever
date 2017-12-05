@@ -1,0 +1,10 @@
+C:\Users\Joe\source\repos\SQL_Image_Retriever\SQL_Image_Retriever\bin\Debug\SQL_Image_Retriever.exe.config
+C:\Users\Joe\source\repos\SQL_Image_Retriever\SQL_Image_Retriever\bin\Debug\SQL_Image_Retriever.exe
+C:\Users\Joe\source\repos\SQL_Image_Retriever\SQL_Image_Retriever\bin\Debug\SQL_Image_Retriever.pdb
+C:\Users\Joe\source\repos\SQL_Image_Retriever\SQL_Image_Retriever\obj\Debug\SQL_Image_Retriever.csprojResolveAssemblyReference.cache
+C:\Users\Joe\source\repos\SQL_Image_Retriever\SQL_Image_Retriever\obj\Debug\SQL_Image_Retriever.Form1.resources
+C:\Users\Joe\source\repos\SQL_Image_Retriever\SQL_Image_Retriever\obj\Debug\SQL_Image_Retriever.Properties.Resources.resources
+C:\Users\Joe\source\repos\SQL_Image_Retriever\SQL_Image_Retriever\obj\Debug\SQL_Image_Retriever.csproj.GenerateResource.Cache
+C:\Users\Joe\source\repos\SQL_Image_Retriever\SQL_Image_Retriever\obj\Debug\SQL_Image_Retriever.csproj.CoreCompileInputs.cache
+C:\Users\Joe\source\repos\SQL_Image_Retriever\SQL_Image_Retriever\obj\Debug\SQL_Image_Retriever.exe
+C:\Users\Joe\source\repos\SQL_Image_Retriever\SQL_Image_Retriever\obj\Debug\SQL_Image_Retriever.pdb
